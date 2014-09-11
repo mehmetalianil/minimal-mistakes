@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Mehmet Ali Anil  
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "bio"
-  email: mehmet.ali.anil@gmail.com  
-  disqus-shortname: malianil    
-  twitter: birpipodegil
+  bio: "Describe your self."
+  email: 
+  disqus-shortname: 
+  twitter: #username
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: mehmetalianil
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
