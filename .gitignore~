@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .DS_Store
-#Gemfile.lock
+Gemfile.lock
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
